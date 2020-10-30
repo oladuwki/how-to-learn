@@ -19,7 +19,7 @@ li {
 .header {
   height: 100vh;
   min-height: 600px;
-  max-height: 756px;  
+  max-height: 756px;
   position: relative;
   /* выше установили ограничения для секции */
 }
@@ -55,7 +55,7 @@ li {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap
+  flex-wrap: wrap;
 }
 
 .flex-column {
@@ -277,7 +277,7 @@ li {
   position: relative;
   left: 0;
   bottom: 0;
-  z-index: 0 ;
+  z-index: 0;
 }
 
 .feynman {
@@ -421,11 +421,6 @@ li {
   color: white;
 }
 
-.flex-two-columns {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .two-columns-footer {
   position: relative;
