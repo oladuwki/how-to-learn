@@ -287,7 +287,6 @@
 
 .table__cell_theme-dark {
   width: 200px;
-  margin-top: 80px;
   align-self: flex-start;
   margin-right: 10px;
   list-style-type: none;
@@ -358,13 +357,13 @@
 
 .footer__column_content-info {
   flex-direction: column;
-  padding: 0%; 
+  padding: 0%;
   list-style-type: none;
 }
 
 .footer__column_content-social {
   flex-direction: column;
-  padding: 0%; 
+  padding: 0%;
   list-style-type: none;
 }
 
