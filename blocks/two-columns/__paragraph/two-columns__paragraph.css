@@ -12,3 +12,8 @@
 .two-columns__paragraph:last-child {
   margin-top: 30px;
 }
+
+.two-columns__paragraph:only-child {
+  margin-top: 0;
+  margin-bottom: 0;
+}
